@@ -34,7 +34,7 @@ Ollama (Gemma 2B LLM)
 
 ##  -Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/LLM-Powered-EDA-App.git
+git clone https://github.com/Megha-2546/Ollama_VisionaryEDA.git
 cd LLM-Powered-EDA-App
 
 2️⃣ Install Required Libraries
